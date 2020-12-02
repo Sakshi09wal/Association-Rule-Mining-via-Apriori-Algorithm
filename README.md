@@ -1,6 +1,6 @@
 # Association-Rule-Mining-via-Apriori-Algorithm
 
-# ::fairy::
+# :fairy:
 
 # Motive :
 
